@@ -17,3 +17,19 @@ get the images from the NOAA satellites.
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/99457944/182883596-e540552b-f3c4-4a94-aa49-2f5a87f6d0b4.png">
 <img width="431" alt="image" src="https://user-images.githubusercontent.com/99457944/182883704-18a80d64-1a69-4465-b1a5-75fd46d13b09.png">
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/99457944/182883769-22be7568-81ac-482f-9b6a-d49ac2f75534.png">
+
+## NOAA Demo
+
+
+## Description 
+<ol>
+<li>Construct the QFH antenna using the required materials as mentioned in the demo video.</li>
+<li>Use SD Sharp software and tune the frequency upto that of NOAA satellite and receive the signal.</li>
+<li>The received signal is sent to WX Tolmg software using VB Cable and the signal is decoded to weather satellite image.</li>
+<li>Softwares used</li>
+<ul>
+<li>WX Tolmg</li>
+<li>SD Sharp</li>
+<li>VB Cable</li>
+</ul>
+</ol>
